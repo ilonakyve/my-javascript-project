@@ -1,0 +1,7 @@
+// Пример кода на JavaScript
+
+function greet(name) {
+  console.log(`Привет, ${name}!`);
+}
+
+greet("Мир");
